@@ -1,0 +1,19 @@
+p {
+    background-color: #f6a192;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.class1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.class2 {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lime;
+    font-weight: bold;
+    font-size: 24px;
+}
